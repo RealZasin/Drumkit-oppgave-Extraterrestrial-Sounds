@@ -1,6 +1,7 @@
 body {
-  background-image: url("outer space.jpg");
+  background-image: url("space\ background3.png");
   background-size: cover;
+  background-attachment: fixed;
   text-align: center;
   display: flex;
   align-items: center;
